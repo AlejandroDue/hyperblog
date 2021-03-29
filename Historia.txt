@@ -1,3 +1,5 @@
 Comenzando en los comandos de la Terminal de Windows
 
 Por medio de los cursos de Platzi.com/git-gihub 
+
+Git nos ayuda a guardar el historial de vambios mediante repositorios.
