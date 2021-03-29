@@ -1,3 +1,3 @@
-Comenzando en los comandos de la Terminal
+Comenzando en los comandos de la Terminal de Windows
 
-Por medio de los cursos de Platzi.com 
+Por medio de los cursos de Platzi.com/git-gihub 
