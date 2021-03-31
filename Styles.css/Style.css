@@ -1,5 +1,14 @@
  body {
      list-style-position: inherit;
     text-align: center;
-    color: palegoldenrod;
+    color: rgba(223, 211, 43, 0.63);
+ }
+ .cabecera {
+background-color: rgb(230, 223, 148);
+
+
+ }
+ .Barra {
+    list-style-type: none;
+
  }
