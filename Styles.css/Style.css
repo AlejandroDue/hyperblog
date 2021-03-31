@@ -5,11 +5,21 @@
  }
 
 
-
-
-
  .parrafo2 {
   font-family: cursive;
   color: darkkhaki;
 
 }
+
+    color: rgba(223, 211, 43, 0.63);
+ }
+ .cabecera {
+background-color: rgb(230, 223, 148);
+
+
+ }
+ .Barra {
+    list-style-type: none;
+
+ }
+
