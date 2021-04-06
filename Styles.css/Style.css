@@ -20,6 +20,9 @@ background-color: rgb(230, 223, 148);
  }
  .Barra {
     list-style-type: none;
-
+   
  }
-
+.logo-container-header {
+  height: 80px;
+  
+}
