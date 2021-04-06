@@ -20,6 +20,19 @@ background-color: rgb(230, 223, 148);
  }
  .Barra {
     list-style-type: none;
-
+   
  }
+.logo-container-header {
+  height: 80px;
+  
+}
 
+.footer-container {
+   font-size: 16px;
+   color: black;
+   background-color: honeydew;
+}
+.Linux-container-footer {
+    height: 76px;
+
+}
