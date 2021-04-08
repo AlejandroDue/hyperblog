@@ -10,3 +10,5 @@ Git nos ayuda a guardar el historial de cambios mediante repositorios.
 Reset hard y Reset Soft
 
 Comando de esc + shift + zz (Funciona) 
+
+Mater1
