@@ -1,7 +1,7 @@
-# Hyperblog :fa-heart:
+# Hyperblog🖤
 Un blog de prueba para la clase de **Git** y **GitHub** de Platzi
 
->Curso que me permitira aumentar mi salario en un 300% :tw-1f4c8:
+>Curso que me permitira aumentar mi salario en un 300% 📈
 
 ##En este curso aprendí
 
@@ -12,6 +12,6 @@ Un blog de prueba para la clase de **Git** y **GitHub** de Platzi
 
 Puedes aprender todo esto y más en [Platzi.com](http://https://platzi.com/clases/ "Platzi.com")
 
-Recordatorio de que este es un **Readme.md** diseañdo por y para una clase, así que no es tan enserio o talvez si.  :tw-1f60c:
+Recordatorio de que este es un **Readme.md** diseañdo por y para una clase, así que no es tan enserio o talvez si.  😸
 
->@Alejandro_Dueñas
+>@Alejandro_Dueñas&reg;
