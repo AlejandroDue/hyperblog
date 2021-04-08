@@ -10,6 +10,8 @@ Un blog de prueba para la clase de **Git** y **GitHub** de Platzi
 * El verdadero amor por las buenas practicas
 * Las multiples personalidades del buen Freddy
 * Creado por el increible Platzi Team
+* Incluye ejemplos en Windows, Linux y Mac
+* Disponible para todas las edades
 
 Puedes aprender todo esto y más en [Platzi.com](http://https://platzi.com/clases/ "Platzi.com")
 
