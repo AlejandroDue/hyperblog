@@ -12,3 +12,5 @@ Reset hard y Reset Soft
 Comando de esc + shift + zz (Funciona) 
 
 Mater1
+
+Master2
