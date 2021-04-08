@@ -9,7 +9,7 @@ Un blog de prueba para la clase de **Git** y **GitHub** de Platzi
 * El flujo de trabajado en GitHub
 * El verdadero amor por las buenas practicas
 * Las multiples personalidades del buen Freddy
-* Creado por el increible Platxi Team
+* Creado por el increible Platzi Team
 
 Puedes aprender todo esto y más en [Platzi.com](http://https://platzi.com/clases/ "Platzi.com")
 
