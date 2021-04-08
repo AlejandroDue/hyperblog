@@ -11,6 +11,7 @@ Un blog de prueba para la clase de **Git** y **GitHub** de Platzi
 * Las multiples personalidades del buen Freddy
 * Creado por el increible Platxi Team
 * Incluye ejemplos en Windows, Linux y Mac
+* Disponible para todas las edades
 
 Puedes aprender todo esto y más en [Platzi.com](http://https://platzi.com/clases/ "Platzi.com")
 
