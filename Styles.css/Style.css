@@ -11,13 +11,8 @@
 
 }
 
-    color: rgba(223, 211, 43, 0.63);
- }
- .cabecera {
-background-color: rgb(230, 223, 148);
-
-
- }
+   
+ 
  .Barra {
     list-style-type: none;
    
@@ -36,6 +31,7 @@ background-color: rgb(230, 223, 148);
     height: 76px;
 
 }
+
 .github {
  height: 120px;
 }
