@@ -25,7 +25,8 @@
 .footer-container {
    font-size: 16px;
    color: black;
-   background-color: honeydew;
+   background-color: rgb(228, 236, 152);
+   /* background-color: honeydew; */
 }
 .Linux-container-footer {
     height: 76px;
